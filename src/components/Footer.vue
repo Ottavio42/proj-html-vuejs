@@ -103,7 +103,7 @@ export default {
                 justify-content: center;
                 a{
                     padding: .3125rem .75rem;
-                    background-color: #7abc64;
+                    background-color: $mainColor;
                     border-radius: .625rem;
                     text-decoration: none;
                     color: #fff;
@@ -125,7 +125,7 @@ export default {
         .courses{
             ul{
                 li{
-                    color: #7abc64;
+                    color: $mainColor;
                 }
             }
         }
@@ -145,7 +145,7 @@ export default {
         .copyright{
             font-size: .625rem;
             span{
-                color: #7abc64;
+                color: $mainColor;
             }
         }
         .social-icons{

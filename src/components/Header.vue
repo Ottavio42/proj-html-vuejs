@@ -85,7 +85,7 @@ header{
       }
       ul li:last-child a{
         padding: 5px 12px;
-        background-color: #7abc64;
+        background-color: $mainColor;
         border-radius: 10px;
       }
     }

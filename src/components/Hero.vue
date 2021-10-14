@@ -67,7 +67,7 @@ export default {
         }
       }
       #btn-verde{
-            color: #7abc64;
+            color: $mainColor;
           }
     }
   }
